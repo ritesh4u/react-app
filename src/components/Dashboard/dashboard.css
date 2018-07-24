@@ -1,0 +1,8 @@
+.dropdown-outline {
+  color: black;
+}
+.dropdown-outline:hover {
+  border: 1px solid gray;
+  border-radius: 3px;
+  color: green;
+}
